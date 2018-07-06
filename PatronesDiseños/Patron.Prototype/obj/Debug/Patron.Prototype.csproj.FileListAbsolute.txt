@@ -1,0 +1,2 @@
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Prototype\bin\Debug\Patron.Prototype.exe.config
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Prototype\obj\Debug\Patron.Prototype.csprojResolveAssemblyReference.cache

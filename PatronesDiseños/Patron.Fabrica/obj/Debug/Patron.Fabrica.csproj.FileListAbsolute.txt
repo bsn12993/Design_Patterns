@@ -1,0 +1,6 @@
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Fabrica\bin\Debug\Patron.Fabrica.exe.config
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Fabrica\bin\Debug\Patron.Fabrica.exe
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Fabrica\bin\Debug\Patron.Fabrica.pdb
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Fabrica\obj\Debug\Patron.Fabrica.exe
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Fabrica\obj\Debug\Patron.Fabrica.pdb
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Fabrica\obj\Debug\Patron.Fabrica.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Singleton\bin\Debug\Patron.Singleton.exe.config
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Singleton\bin\Debug\Patron.Singleton.exe
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Singleton\bin\Debug\Patron.Singleton.pdb
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Singleton\obj\Debug\Patron.Singleton.exe
+C:\Repositorio Git\PatronesDiseños\PatronesDiseños\Patron.Singleton\obj\Debug\Patron.Singleton.pdb
