@@ -1,0 +1,6 @@
+C:\Repositorio Git\DesignPatterns\Design_Patterns\PatronesDiseños\Patron.Facade\bin\Debug\Patron.Facade.exe.config
+C:\Repositorio Git\DesignPatterns\Design_Patterns\PatronesDiseños\Patron.Facade\bin\Debug\Patron.Facade.exe
+C:\Repositorio Git\DesignPatterns\Design_Patterns\PatronesDiseños\Patron.Facade\bin\Debug\Patron.Facade.pdb
+C:\Repositorio Git\DesignPatterns\Design_Patterns\PatronesDiseños\Patron.Facade\obj\Debug\Patron.Facade.csprojResolveAssemblyReference.cache
+C:\Repositorio Git\DesignPatterns\Design_Patterns\PatronesDiseños\Patron.Facade\obj\Debug\Patron.Facade.exe
+C:\Repositorio Git\DesignPatterns\Design_Patterns\PatronesDiseños\Patron.Facade\obj\Debug\Patron.Facade.pdb
